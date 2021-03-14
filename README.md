@@ -28,6 +28,7 @@ Using regularly those different apps :
   <img src="https://user-images.githubusercontent.com/76498664/111078201-a92b3580-84f4-11eb-8179-6371048ea407.png" alt="Jetbrains" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/76498664/111078194-a2042780-84f4-11eb-943e-de635e75180b.png" alt="Aseprite" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/76498664/111078174-931d7500-84f4-11eb-8eed-3dc09654784f.png" alt="Qt creator" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111082303-d3d2b980-8507-11eb-80c1-d3785f966d8d.png" alt="Office" width="50" height="50"/>
 </p>
 
 I'm coding some games too that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page
