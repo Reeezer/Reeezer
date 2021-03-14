@@ -3,31 +3,31 @@
 
 I'm learning coding since I was 16, and I've got some skills in those different languages :
 <p>
-  <img src="https://user-images.githubusercontent.com/76498664/111077508-5dc35800-84f1-11eb-8af5-b90b740425bd.png" alt="Java" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076647-7598dd00-84ed-11eb-92dc-1edcd47ddc04.png" alt="C++" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076660-85182600-84ed-11eb-8686-71077e74bcb8.png" alt="C" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076671-92351500-84ed-11eb-84eb-22693b0c4566.png" alt="C++ Qt" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111077883-1dfd7000-84f3-11eb-828b-9a7045445744.png" alt="Arduino" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076746-dc1dfb00-84ed-11eb-8f06-1fbb07933ac2.png" alt="Lua" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076755-ea6c1700-84ed-11eb-99f5-11673a0e09f8.png" alt="Python" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111077379-d83fa800-84f0-11eb-8d5d-44a39341b04b.png" alt="HTML" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076769-fd7ee700-84ed-11eb-8e8c-ec085f21194c.png" alt="PHP" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076779-0cfe3000-84ee-11eb-937a-0b79a3b003df.png" alt="CSS" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076795-24d5b400-84ee-11eb-99fa-b85f8be05833.png" alt="Javascript" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076840-65cdc880-84ee-11eb-96b5-82f47cb4935a.png" alt="VBA" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111077075-6f0b6500-84ef-11eb-8627-0a7c39a8e092.png" alt="MySQL" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111077151-b72a8780-84ef-11eb-877e-ac21537c2b04.png" alt="Markdown" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078352-3ff7f200-84f5-11eb-9bbe-d5554eb0fb49.png" alt="Java" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078343-38d0e400-84f5-11eb-87b3-eb392d998eb3.png" alt="C++" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078335-34a4c680-84f5-11eb-918a-76acf312fc04.png" alt="C" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078333-3078a900-84f5-11eb-819d-2555441fd437.png" alt="C++ Qt" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078326-26ef4100-84f5-11eb-8111-6344dc3c10dd.png" alt="Arduino" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078322-222a8d00-84f5-11eb-82c3-ede7c9fd4159.png" alt="Lua" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078317-1c34ac00-84f5-11eb-9de4-2092da48fc72.png" alt="Python" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078303-1212ad80-84f5-11eb-9d3f-83940d2f7632.png" alt="HTML" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078301-0aeb9f80-84f5-11eb-87aa-14a8b4251185.png" alt="PHP" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078296-0626eb80-84f5-11eb-994d-57b2dd3f4536.png" alt="CSS" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078290-f909fc80-84f4-11eb-9a12-d3420a1c9dd0.png" alt="Javascript" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078277-eb547700-84f4-11eb-9ffe-b70a8aa707e7.png" alt="VBA" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078274-e55e9600-84f4-11eb-84d9-b5fab5f902ef.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078264-e0014b80-84f4-11eb-9d49-dbe9403fc1ce.png" alt="Markdown" width="50" height="50"/>
 </p>
 
 Using regularly those different apps :
 <p>
-  <img src="https://user-images.githubusercontent.com/76498664/111076963-e2f93d80-84ee-11eb-88d3-e2d7164bdae8.png" alt="Discord" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076983-fc9a8500-84ee-11eb-8457-aece73a1ccf8.png" alt="Microsoft Teams" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111076990-0e7c2800-84ef-11eb-9630-cecebbf3360b.png" alt="Visual Studio Code" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111077012-25227f00-84ef-11eb-8367-7f7067e7ff37.png" alt="Eclipse" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111077020-31a6d780-84ef-11eb-936b-d0699da2f1af.png" alt="Jetbrains" width="50" height="50"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111077046-4c794c00-84ef-11eb-8067-c069e98c31fd.png" alt="Aseprite" width="50" height="50"/>
-  <img src="![qt](https://user-images.githubusercontent.com/76498664/111078174-931d7500-84f4-11eb-8eed-3dc09654784f.png)" alt="Qt creator" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078260-d8da3d80-84f4-11eb-8a65-a433707a4670.png" alt="Discord" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078254-d11a9900-84f4-11eb-8ade-27a9f5cc9cf5.png" alt="Microsoft Teams" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078249-cbbd4e80-84f4-11eb-8a1b-6cfeb8c21f80.png" alt="Visual Studio Code" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078241-c5c76d80-84f4-11eb-8aa5-abc7d7f81e85.png" alt="Eclipse" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078201-a92b3580-84f4-11eb-8179-6371048ea407.png" alt="Jetbrains" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078194-a2042780-84f4-11eb-943e-de635e75180b.png" alt="Aseprite" width="50" height="50"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078174-931d7500-84f4-11eb-8eed-3dc09654784f.png" alt="Qt creator" width="50" height="50"/>
 </p>
 
 I'm coding some games too that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page
