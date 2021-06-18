@@ -34,3 +34,5 @@ Using regularly those different apps :
 I'm coding some games too that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Reeezer)](https://github.com/Reeezer/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reeezer&show_icons=true)
+
