@@ -1,6 +1,8 @@
 <h2 align="center">Hi ! I'm a french student who wants to become an Engineer</h2>
 <div align="center">I'm currently doing a double degree in the <a href="https://www.utbm.fr">UTBM</a> in France and in the <a href="https://www.he-arc.ch">HE-Arc</a> in Switzerland</div>
 
+![](https://komarev.com/ghpvc/?username=Reeezer)
+
 I'm learning coding since I was 16, and I've got some skills in those different languages :
 <p>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40"/>
