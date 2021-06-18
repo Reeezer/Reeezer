@@ -10,9 +10,9 @@ I'm learning coding since I was 16, and I've got some skills in those different 
   <img src="https://user-images.githubusercontent.com/76498664/122520706-3f02bf00-d014-11eb-9813-531fc8bece79.png" alt="Lua" height="40"/>
   <img src="https://user-images.githubusercontent.com/76498664/122520729-46c26380-d014-11eb-91af-92c8b7257660.png" alt="Python" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122521872-9fdec700-d015-11eb-909e-b15368ddd1ba.png" alt="HTML5" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122521899-a79e6b80-d015-11eb-825f-fb1999764b37.png" alt="CSS3" height="40"/>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="Javascript" height="40"/>
   <img src="https://user-images.githubusercontent.com/76498664/122520796-5e99e780-d014-11eb-9bdd-a94e26ab3851.png" alt="VBA" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
