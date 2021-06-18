@@ -3,32 +3,32 @@
 
 I'm learning coding since I was 16, and I've got some skills in those different languages :
 <p>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078333-3078a900-84f5-11eb-819d-2555441fd437.png" alt="C++ Qt" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" alt="Lua" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="Javascript" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078277-eb547700-84f4-11eb-9ffe-b70a8aa707e7.png" alt="VBA" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122520480-edf2cb00-d013-11eb-8016-9595b2c16cae.png" alt="C++ Qt" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122520706-3f02bf00-d014-11eb-9813-531fc8bece79.png" alt="Lua" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122520729-46c26380-d014-11eb-91af-92c8b7257660.png" alt="Python" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="PHP" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="Javascript" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122520796-5e99e780-d014-11eb-9bdd-a94e26ab3851.png" alt="VBA" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/>
 </p>
 
 Using regularly those different apps :
 <p>
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078260-d8da3d80-84f4-11eb-8a65-a433707a4670.png" alt="Discord" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078254-d11a9900-84f4-11eb-8ade-27a9f5cc9cf5.png" alt="Microsoft Teams" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078249-cbbd4e80-84f4-11eb-8a1b-6cfeb8c21f80.png" alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078241-c5c76d80-84f4-11eb-8aa5-abc7d7f81e85.png" alt="Eclipse" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078201-a92b3580-84f4-11eb-8179-6371048ea407.png" alt="Jetbrains" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078194-a2042780-84f4-11eb-943e-de635e75180b.png" alt="Aseprite" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111078174-931d7500-84f4-11eb-8eed-3dc09654784f.png" alt="Qt creator" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/76498664/111082303-d3d2b980-8507-11eb-80c1-d3785f966d8d.png" alt="Office" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122520995-9acd4800-d014-11eb-8455-a8daa02e4948.png" alt="Discord" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122521049-a7ea3700-d014-11eb-80ad-e07de2ec4875.png" alt="Microsoft Teams" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122521081-b2a4cc00-d014-11eb-8f9d-a6f3090de2b8.png" alt="Visual Studio Code" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122521128-be908e00-d014-11eb-9d9b-bb3b8d35d2c3.png" alt="Eclipse" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078201-a92b3580-84f4-11eb-8179-6371048ea407.png" alt="Jetbrains" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/111078194-a2042780-84f4-11eb-943e-de635e75180b.png" alt="Aseprite" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122520480-edf2cb00-d013-11eb-8016-9595b2c16cae.png" alt="Qt creator" height="40"/>
+  <img src="https://user-images.githubusercontent.com/76498664/122521208-d5cf7b80-d014-11eb-8656-57882c7829af.png" alt="Office" height="40"/>
 </p>
 
 I'm coding some games too that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page
