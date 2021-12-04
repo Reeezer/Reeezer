@@ -3,7 +3,7 @@
 
 I'm coding some games too that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page
 
-📊 **this week i spent my time on:**
+📊 **this week i spent my time on**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
