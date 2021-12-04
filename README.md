@@ -11,7 +11,7 @@ I'm coding some games too that you can find on my <a href="https://reezer01.itch
 
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_4016.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
