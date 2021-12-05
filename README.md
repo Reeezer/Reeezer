@@ -1,5 +1,6 @@
 <h2 align="center">Hi ! I'm a french student who wants to become an Engineer</h2>
-<div align="center">I'm currently doing a double degree in the <a href="https://www.utbm.fr">UTBM</a> in France and in the <a href="https://www.he-arc.ch">HE-Arc</a> in Switzerland</div>
+  
+I'm currently doing a double degree in the <a href="https://www.utbm.fr">UTBM</a> in France and in the <a href="https://www.he-arc.ch">HE-Arc</a> in Switzerland
 
 I'm coding some games too that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page
 
