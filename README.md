@@ -11,17 +11,18 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-**languages and tools** 
+🛠️**languages and tools** 
 
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
