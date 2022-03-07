@@ -33,6 +33,10 @@ Markdown   0 secs          ░░░░░░░░░░░░░░░░░�
 <code><img height="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cuda.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></code>
 
 📈 **my Github stats**
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Reeezer&show_icons=true&theme=gotham" alt="Reeezer" />
