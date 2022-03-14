@@ -8,12 +8,12 @@ I'm coding some games too that you can find on my <a href="https://reezer01.itch
 <!--START_SECTION:waka-->
 
 ```text
-Python     5 hrs 45 mins   ██████████████▒░░░░░░░░░░   57.04 %
-C#         1 hr 58 mins    █████░░░░░░░░░░░░░░░░░░░░   19.52 %
-CSS        1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
-HTML       58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-JSON       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Python     6 hrs 23 mins   ███████████████░░░░░░░░░░   59.60 %
+C#         1 hr 58 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+CSS        1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
+HTML       58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+JSON       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
