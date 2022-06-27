@@ -8,10 +8,10 @@ I'm coding some games too that you can find on my <a href="https://reezer01.itch
 <!--START_SECTION:waka-->
 
 ```text
-Python   4 hrs 39 mins   ████████████████████████▓   98.80 %
-Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python   11 hrs 46 mins  ████████████████████████▓   99.28 %
+Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
