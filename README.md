@@ -8,11 +8,11 @@ I'm coding some games too that you can find on my <a href="https://reezer01.itch
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 hrs 16 mins   ████████████████████▓░░░░   82.50 %
-Bash     1 hr 14 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-XML      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     26 hrs 54 mins  ███████████████████████▓░   95.25 %
+C++        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+Markdown   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Bash       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
