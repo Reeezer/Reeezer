@@ -2,9 +2,9 @@
  
 I have a bachelor's degree in software development from the <a href="https://www.he-arc.ch">Haute Ecole Arc</a>, and I am doing a master's degree at the <a href="https://www.epfl.ch">EPFL</a>.
 
-I've done quite a lot of works that you can find on my profile.
+I've done quite a lot of works, that you can find on my profile.
 
-I'm coding some games too that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page
+I'm coding some games too, that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page.
 
 📊 **this week i spent my time on**
 <!--START_SECTION:waka-->
