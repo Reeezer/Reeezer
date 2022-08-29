@@ -10,7 +10,9 @@ I'm coding some games too, that you can find on my <a href="https://reezer01.itc
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       2 hrs 40 mins   ███████████████████████▒░   93.63 %
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
