@@ -10,7 +10,7 @@ I'm coding some games too, that you can find on my <a href="https://reezer01.itc
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
