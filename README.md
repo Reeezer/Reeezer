@@ -10,7 +10,12 @@ I'm coding some games too, that you can find on my <a href="https://reezer01.itc
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 mins          █████████████████████████   100.00 %
+Python       52 mins         ███████████▓░░░░░░░░░░░░░   46.97 %
+YAML         29 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+HTML         25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
