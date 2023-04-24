@@ -10,12 +10,11 @@ I'm coding some games too, that you can find on my <a href="https://reezer01.itc
 <!--START_SECTION:waka-->
 
 ```text
-Python       10 hrs 14 mins  █████████████░░░░░░░░░░░░   52.31 %
-Dart         4 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65 %
-HTML         2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-JavaScript   1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-CSV          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Dart         5 hrs 22 mins   █████████████▒░░░░░░░░░░░   53.36 %
+Python       4 hrs 34 mins   ███████████▒░░░░░░░░░░░░░   45.32 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
