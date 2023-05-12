@@ -1,10 +1,10 @@
-<h2 align="center">Hi ! I'm a french student who wants to become an Engineer</h2>
- 
-I have a Bachelor's degree in 'Software development' from the <a href="https://www.he-arc.ch">Haute Ecole Arc</a>, and I am currently doing a Master's degree in 'Data science' at the <a href="https://www.epfl.ch">EPFL</a>.
+<h2 align="center">Hello! I'm a passionate French student aspiring to become an Engineer.</h2>
 
-I've done quite a lot of works, that you can find on my profile.
+I hold a Bachelor's degree in 'Software development' from the renowned <a href="https://www.he-arc.ch">Haute Ecole Arc</a>, and I am currently pursuing a Master's degree in 'Data Science' at the prestigious <a href="https://www.epfl.ch">EPFL</a>.
 
-I'm coding some games too, that you can find on my <a href="https://reezer01.itch.io">itch.io</a> page.
+Throughout my journey, I have undertaken various projects, which you can explore on my GitHub profile.
+
+In addition to my programming expertise, I also enjoy creating games. You can check out some of my game projects on my <a href="https://reezer01.itch.io">itch.io</a> page.
 
 📊 **this week i spent my time on**
 <!--START_SECTION:waka-->
