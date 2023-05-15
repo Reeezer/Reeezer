@@ -10,8 +10,9 @@ In addition to my programming expertise, I also enjoy creating games. You can ch
 <!--START_SECTION:waka-->
 
 ```text
-SQL      2 hrs 24 mins   ████████████████████████░   96.06 %
-Python   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+SQL        3 hrs 33 mins   ███████████████████████░░   91.76 %
+Markdown   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
