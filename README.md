@@ -10,11 +10,11 @@ In addition to my programming expertise, I also enjoy creating games. You can ch
 <!--START_SECTION:waka-->
 
 ```text
-Dart         5 hrs 37 mins   ██████████████▒░░░░░░░░░░   57.64 %
-SQL          2 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Other        52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
-Python       20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Python       7 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   46.66 %
+Other        4 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
+Dart         2 hrs 13 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+SQL          1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
