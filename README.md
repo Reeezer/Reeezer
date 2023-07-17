@@ -10,7 +10,11 @@ In addition to my programming expertise, I also enjoy creating games. You can ch
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   13 mins         █████████████████▓░░░░░░░   70.72 %
+Dart     4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
+Bash     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
