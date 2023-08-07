@@ -10,7 +10,8 @@ In addition to my programming expertise, I also enjoy creating games. You can ch
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   2 hrs 8 mins    █████████████████████████   99.85 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
