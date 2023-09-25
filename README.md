@@ -10,7 +10,11 @@ In addition to my programming expertise, I also enjoy creating games. You can ch
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Scala          5 hrs 3 mins    ███████████████████░░░░░░   75.67 %
+Python         1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+CSS            22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Objective-C    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+HTML           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
