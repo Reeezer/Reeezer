@@ -10,11 +10,11 @@ In addition to my programming expertise, I also enjoy creating games. You can ch
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3    8 hrs           ████████████████░░░░░░░░░   64.34 %
-Scala        2 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
-Python       43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Markdown     28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Python           5 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 %
+Dart             4 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
+Assembly         2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
+Scala            1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Objective-C      1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 ```
 
 <!--END_SECTION:waka-->
