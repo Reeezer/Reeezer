@@ -10,11 +10,10 @@ In addition to my programming expertise, I also enjoy creating games. You can ch
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         7 hrs 25 mins   █████████████▒░░░░░░░░░░░   53.19 %
-Python       6 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   43.19 %
-Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python     7 hrs 46 mins   █████████████████████████   99.86 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TeX        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
