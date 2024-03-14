@@ -44,7 +44,7 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"></code>
