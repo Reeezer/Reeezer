@@ -15,11 +15,11 @@ I also enjoy creating video games, and I have worked on several game projects in
 <!--START_SECTION:waka-->
 
 ```txt
-Python       10 hrs 52 mins  █████████████░░░░░░░░░░░░   52.40 %
-Dart         3 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
-Bash         3 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
-Text         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Scala        45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Python       16 hrs 11 mins  █████████████▒░░░░░░░░░░░   52.76 %
+TeX          7 hrs 29 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+Bash         3 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Dart         2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
