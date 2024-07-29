@@ -15,11 +15,11 @@ I also enjoy creating video games, and I have worked on several game projects in
 <!--START_SECTION:waka-->
 
 ```txt
-Python     14 hrs 13 mins  █████████████████████▒░░░   85.15 %
-Markdown   1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Bash       55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-YAML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Docker     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python     10 hrs 31 mins  ██████████████████████▓░░   90.26 %
+Bash       36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+Markdown   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+YAML       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+MATLAB     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
