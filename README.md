@@ -15,11 +15,7 @@ I also enjoy creating video games, and I have worked on several game projects in
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 13 mins    ██████████████▓░░░░░░░░░░   58.26 %
-Python       25 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-Bash         11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Other        10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
