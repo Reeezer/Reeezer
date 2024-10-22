@@ -6,7 +6,7 @@ I am currently studying at the <a href="https://www.epfl.ch">Swiss Federal Insti
 
 During those years, I have worked on various projects, ranging from web/mobile/desktop applications to data analysis and machine learning. I am always interested in learning new technologies and tools to improve my skills and knowledge.
 
-I also enjoy creating video games, and I have worked on several game projects in the past. You can check out some of my games on my <a href="https://reezer01.itch.io">itch.io</a> page.
+I also enjoy creating video games, and I have worked on several game projects in the past. You can check out some of my games on my <a href="https://reeezer.itch.io">itch.io</a> page.
 
 📫 You can reach me here: <a href="mailto:leon.muller@epfl.ch">leon.muller@epfl.ch</a>
 
