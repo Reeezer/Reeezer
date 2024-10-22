@@ -2,13 +2,13 @@
 
 I am a young and motivated student with a passion for programming and data science.
 
-I am currently studying at the <a href="https://www.epfl.ch">Swiss Federal Institute of Technology in Lausanne (EPFL)</a>, where I am pursuing a Master's degree in 'Data Science'. And I also hold a Bachelor's degree in 'Software development' from the <a href="https://www.he-arc.ch">Haute Ecole Arc</a>.
+I am currently studying at the <a href="https://www.epfl.ch">Swiss Federal Institute of Technology in Lausanne (EPFL)</a>, where I am pursuing a Master's degree in 'Data Science'. And I also hold a double Bachelor's degree in 'Computer Science & Imaging' from the <a href="https://www.he-arc.ch">HES-SO Arc Ingéniérie</a> in collaboration with the <a href="https://www.utbm.fr/">UTBM</a>.
 
 During those years, I have worked on various projects, ranging from web/mobile/desktop applications to data analysis and machine learning. I am always interested in learning new technologies and tools to improve my skills and knowledge.
 
 I also enjoy creating video games, and I have worked on several game projects in the past. You can check out some of my games on my <a href="https://reezer01.itch.io">itch.io</a> page.
 
-📫 You can reach me here: leon.muller@epfl.ch
+📫 You can reach me here: <a href="mailto:leon.muller@epfl.ch">leon.muller@epfl.ch</a>
 
 📊 **This week i spent my time on**
 
