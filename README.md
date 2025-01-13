@@ -15,11 +15,8 @@ I also enjoy creating video games, and I have worked on several game projects in
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 3 mins    ████████████████████████▒   96.83 %
-MATLAB     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Bash       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Todotxt    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TeX    1 hr 50 mins    ████████████████████████░   95.68 %
+Bash   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
