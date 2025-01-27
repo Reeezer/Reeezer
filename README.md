@@ -15,11 +15,9 @@ I also enjoy creating video games, and I have worked on several game projects in
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 4 mins    ██████████████▒░░░░░░░░░░   57.13 %
-HTML       48 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-TeX        36 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Markdown   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     33 mins         ███████████████▒░░░░░░░░░   60.98 %
+Markdown   17 mins         ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+HTML       4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
 ```
 
 <!--END_SECTION:waka-->
