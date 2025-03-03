@@ -15,8 +15,7 @@ I also enjoy creating video games, and I have worked on several game projects in
 <!--START_SECTION:waka-->
 
 ```txt
-Python       35 mins         ████████████████████████▓   98.60 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
