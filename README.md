@@ -8,20 +8,6 @@ Outside of ML, I love competitive team games, creating indie games (check out my
 
 📫 Feel free to contact me at: <a href="mailto:leon.muller@epfl.ch">leon.muller@epfl.ch</a>
 
-📊 **This week i spent my time on**
-
-<!--START_SECTION:waka-->
-
-```txt
-Python     11 hrs 25 mins  ██████████████████████▓░░   91.02 %
-CSV        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-HTML       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JSON       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
-<!--END_SECTION:waka-->
-
 🛠️ **Languages and Tools**
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
@@ -60,6 +46,7 @@ Text       0 secs          ░░░░░░░░░░░░░░░░░�
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+<code><img height="30" src="https://downloads.dataiku.com/public/mediakit/logos/Dataiku_logo_COLOR.svg"></code>
 
 📈 **My Github stats**
 
