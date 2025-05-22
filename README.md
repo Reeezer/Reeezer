@@ -1,14 +1,12 @@
-<h2 align="center">Hi 👋 I'm Léon, a passionate student aspiring to become a Data scientist.</h2>
+<h2 align="center">Hi 👋 I'm Léon, a passionate machine learning student and researcher.</h2>
 
-I am a young and motivated student with a passion for programming and data science.
+I'm currently pursuing a Master's degree in <a href="https://www.epfl.ch/education/master/programs/data-science/">Data Science</a> at the <a href="https://www.epfl.ch">Swiss Federal Institute of Technology in Lausanne (EPFL)</a>. My background blends software engineering and machine learning research, and I hold a double Bachelor's degree in *Computer Science & Imaging* from the <a href="https://www.he-arc.ch">HES-SO Arc Ingénierie</a> and the <a href="https://www.utbm.fr/">UTBM</a>.
 
-I am currently studying at the <a href="https://www.epfl.ch">Swiss Federal Institute of Technology in Lausanne (EPFL)</a>, where I am pursuing a Master's degree in 'Data Science'. And I also hold a double Bachelor's degree in 'Computer Science & Imaging' from the <a href="https://www.he-arc.ch">HES-SO Arc Ingéniérie</a> in collaboration with the <a href="https://www.utbm.fr/">UTBM</a>.
+Over the years, I’ve gained hands-on experience through diverse projects in machine learning, computer vision, and natural language processing. I enjoy building robust, research-backed solutions to real-world problems ranging from research on 3D MRI scans foundation model for spinal cord reconstruction, to designing retrieval-augmented generation (RAG) systems that explore modern search techniques, and creating an AI Tutor to support students with STEM exam preparation. My journey began with a strong background in software and full-stack development, which now complements my passion for deep learning, vision/language models, and research machine learning systems.
 
-During those years, I have worked on various projects, ranging from web/mobile/desktop applications to data analysis and machine learning. I am always interested in learning new technologies and tools to improve my skills and knowledge.
+Outside of ML, I love competitive team games, creating indie games (check out my <a href="https://reeezer.itch.io">itch.io</a>), and diving into side projects.
 
-I also enjoy creating video games, and I have worked on several game projects in the past. You can check out some of my games on my <a href="https://reeezer.itch.io">itch.io</a> page.
-
-📫 You can reach me here: <a href="mailto:leon.muller@epfl.ch">leon.muller@epfl.ch</a>
+📫 Feel free to contact me at: <a href="mailto:leon.muller@epfl.ch">leon.muller@epfl.ch</a>
 
 📊 **This week i spent my time on**
 
