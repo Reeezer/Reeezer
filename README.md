@@ -6,6 +6,8 @@ Over the years, I’ve gained hands-on experience through diverse projects in ma
 
 Outside of ML, I love competitive team games, creating indie games (check out my <a href="https://reeezer.itch.io">itch.io</a>), and diving into side projects.
 
+You can explore more of my work on my <a href="https://reeezer.github.io/" target="_blank">portfolio</a> or <a href="https://www.linkedin.com/in/muller-leon/" target="_blank">connect with me on LinkedIn</a>.
+
 📫 Feel free to contact me at: <a href="mailto:leon.muller@epfl.ch">leon.muller@epfl.ch</a>
 
 🛠️ **Languages and Tools**
