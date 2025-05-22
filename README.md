@@ -46,8 +46,4 @@ Outside of ML, I love competitive team games, creating indie games (check out my
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-<code><img height="30" src="https://downloads.dataiku.com/public/mediakit/logos/Dataiku_logo_COLOR.svg"></code>
-
-📈 **My Github stats**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Reeezer&show_icons=true&theme=gotham" alt="Reeezer" />
+<code><img height="30" src="https://logo.svgcdn.com/s/dataiku-dark.png"></code>
