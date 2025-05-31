@@ -1,14 +1,18 @@
 <h2 align="center">Hi 👋 I'm Léon, a passionate machine learning student and researcher.</h2>
 
-I'm currently pursuing a Master's degree in *Data Science* at the <a href="https://www.epfl.ch">Swiss Federal Institute of Technology in Lausanne (EPFL)</a>. My background blends software engineering and machine learning research, and I hold a double Bachelor's degree in *Computer Science & Imaging* from the <a href="https://www.he-arc.ch">HES-SO Arc Ingénierie</a> and the <a href="https://www.utbm.fr/">UTBM</a>.
+I’m a Master’s student in Data Science at the <a href="https://www.epfl.ch">Swiss Federal Institute of Technology in Lausanne (EPFL)</a>, passionate about machine learning research and building intelligent systems that go beyond the lab.
 
-Over the years, I’ve gained hands-on experience through diverse projects in machine learning, computer vision, and natural language processing. I enjoy building robust, research-backed solutions to real-world problems ranging from research on 3D MRI scans foundation model for spinal cord reconstruction, to designing retrieval-augmented generation (RAG) systems that explore modern search techniques, and creating an AI Tutor to support students with STEM exam preparation. My journey began with a strong background in software and full-stack development, which now complements my passion for deep learning, vision/language models, and research machine learning systems.
+My journey began in software engineering and grew into the science of learning algorithms. I hold a double Bachelor's degree in Computer Science & Imaging from the <a href="https://www.he-arc.ch">HES-SO Arc Ingénierie</a> and the <a href="https://www.utbm.fr/">UTBM</a>, which gave me a solid foundation in both low-level systems and applied AI.
 
-Outside of ML, I love competitive team games, creating indie games (check out my <a href="https://reeezer.itch.io">itch.io</a>), and diving into side projects.
+Over the years, I’ve worked on diverse projects in computer vision, natural language processing, and foundation models, from spinal cord segmentation using 3D MRI scans, to retrieval-augmented generation (RAG) systems, and even an AI Tutor for STEM students. My background in full-stack development and software engineering helps me bridge the gap between research and real-world applications.
 
-You can explore more of my work on my <a href="https://reeezer.github.io/" target="_blank">portfolio</a> or <a href="https://www.linkedin.com/in/muller-leon/" target="_blank">connect with me on LinkedIn</a>.
+Outside of ML, I love competitive games, designing indie projects (some available on my <a href="https://reeezer.itch.io">itch.io</a>), and building things just for fun. 
+
+You can explore more of my work on my <a href="https://reeezer.github.io/">portfolio</a> or <a href="https://www.linkedin.com/in/muller-leon/">connect with me on LinkedIn</a>.
 
 📫 Feel free to contact me at: <a href="mailto:leon.muller@epfl.ch">leon.muller@epfl.ch</a>
+
+Let’s connect, I’d love to hear what you're working on! 😊
 
 🛠️ **Languages and Tools**
 
